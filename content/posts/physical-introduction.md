@@ -1,11 +1,11 @@
 ---
 author: Red Sun
-date: 2021-01-11T19:23:08Z
+date: 2021-01-11T19:23:08.000+00:00
 hero_image: "/content/images/133-1330034_rwb-964-wagon-wallpaper-khyzyl-saleem.jpg"
 title: Physical introduction.
 
 ---
-> _Good writing is actually bad writing, but with lots of editing. - D. Perrell_
+> _Good writing is actually bad writing, but with lots of editing. - D. Perell_
 
 This blog started being planned as something commercial and a lot physical.  
 At the current moment - I feel more like spiritual about this.  
