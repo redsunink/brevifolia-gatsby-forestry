@@ -5,12 +5,14 @@ hero_image: "/content/images/133-1330034_rwb-964-wagon-wallpaper-khyzyl-saleem.j
 title: Physical introduction.
 
 ---
+> _Good writing is actually bad writing, but with lots of editing. - D. Perrell_
+
 This blog started being planned as something commercial and a lot physical.  
 At the current moment - I feel more like spiritual about this.  
-Choosing between two doesn't make any sense - **reality** accepts everything.  
-  
-When **reality** starts beating your face against the pavement you either start to understand or live and then die inside a bubble of stupidity. This bubble isn't 100% transparent, but protects you from some or the beatings your fate want to deliver.  
-  
+Choosing between two doesn't make any sense - **reality** accepts everything.
+
+When **reality** starts beating your face against the pavement you either start to understand or live and then die inside a bubble of stupidity. This bubble isn't 100% transparent, but protects you from some or the beatings your fate want to deliver.
+
 I am not a public person, so my "real" name won't be present, as well with birthday.  
 So I am introducing myself as Red Sun, born in 1994.  
 I do love cars. A lot.  
