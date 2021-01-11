@@ -27,3 +27,5 @@ Fading the shades away takes the joy out of life, but keeps it simple.
 This is the way I understand the role God is serving to people: leaving a variety of laws, systems, rules and events - and designing a much simpler system.  
 Simplifying complex systems adds layers to the bubble. Understanding them - makes it more transparent.  
 So my final goal is to accept **reality.** To stop simplifying, but accept everything in it's complexity - this is the way I see joy of life. The way of absolute freedom.
+
+Keep up with this blog - let's grow together.
