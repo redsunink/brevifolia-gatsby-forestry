@@ -11,7 +11,8 @@ fields:
   default: description
   config:
     required: true
-    options: []
+    options: 
+    - "Red Sun"
     source:
       type: simple
       section: ''
