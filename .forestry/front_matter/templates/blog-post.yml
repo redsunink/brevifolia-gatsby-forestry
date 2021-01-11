@@ -10,7 +10,7 @@ fields:
   type: select
   default: description
   config:
-    required: false
+    required: true
     options: []
     source:
       type: simple
@@ -22,6 +22,7 @@ fields:
   showOnly:
     field: author
     value: title
+  hidden: false
 - name: date
   type: datetime
   label: date
