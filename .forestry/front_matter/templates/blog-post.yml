@@ -13,9 +13,9 @@ fields:
     options: []
     source:
       type: documents
-      section: author-list
-      file: content/data/authors.yaml
-      path: authors
+      section: ''
+      file: config.json
+      path: ''
   label: author
   description: Enter author of post
 - name: date
