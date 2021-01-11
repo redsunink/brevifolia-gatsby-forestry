@@ -8,11 +8,11 @@ fields:
   label: title
 - name: author
   type: select
-  default: description
+  default: Red Sun
   config:
     required: true
-    options: 
-    - "Red Sun"
+    options:
+    - Red Sun
     source:
       type: simple
       section: ''
@@ -22,7 +22,7 @@ fields:
   description: Enter author of post
   showOnly:
     field: author
-    value: title
+    value: Red Sun
   hidden: false
 - name: date
   type: datetime
